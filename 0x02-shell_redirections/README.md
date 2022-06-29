@@ -1,3 +1,0 @@
-'save our soul'
-:wq
-
