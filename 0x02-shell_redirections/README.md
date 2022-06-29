@@ -1,2 +1,2 @@
-7-file
-7-file
+#!/bin/bash
+8-cwd_state
