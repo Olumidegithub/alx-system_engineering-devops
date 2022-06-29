@@ -1,2 +1,2 @@
 #!/bin/bash
-17-hidethisword
+18-letteronly
