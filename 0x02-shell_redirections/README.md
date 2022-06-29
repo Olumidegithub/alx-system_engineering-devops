@@ -1,2 +1,2 @@
 #!/bin/bash
-18-letteronly
+19-AZ
