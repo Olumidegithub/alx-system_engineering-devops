@@ -1,2 +1,2 @@
 #!/bin/bash
-1-hello_you
+2-path
