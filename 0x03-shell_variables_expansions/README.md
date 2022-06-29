@@ -1,2 +1,2 @@
 #!/bin/bash
-2-path
+3-paths
