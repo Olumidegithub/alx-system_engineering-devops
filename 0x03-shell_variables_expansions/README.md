@@ -1,2 +1,2 @@
 #!/bin/bash
-101-rot13
+102-odd
