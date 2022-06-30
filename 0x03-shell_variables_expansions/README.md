@@ -1,2 +1,2 @@
 #!/bin/bash
-3-paths
+4-global_variables
